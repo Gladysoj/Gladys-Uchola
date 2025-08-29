@@ -21,3 +21,7 @@ Freelance product design projects over the past 2 years
 
 
 📚 I’m currently enrolled in Backend Development, expanding my skills to become a well-rounded Full-Stack Developer.
+
+
+Let's connect : [Twitter X] https://twitter.com/Sucre_247
+                [LinkedIn]  https://www.linkedin.com/in/gladys-ojonugwa-098479179/
