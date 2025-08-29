@@ -14,6 +14,8 @@ Collaboration & Product Building: Mobile & web applications with startups and re
 Designed the A Currency Converter Application (desktop version) using TailwindCSS 
 
 
+
+
 Designed a Music Application (mobile version) with a modern, intuitive interface
 
 
@@ -25,3 +27,4 @@ Freelance product design projects over the past 2 years
 
 Let's connect : [Twitter X] https://twitter.com/Sucre_247
                 [LinkedIn]  https://www.linkedin.com/in/gladys-ojonugwa-098479179/
+
