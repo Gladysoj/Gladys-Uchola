@@ -13,11 +13,11 @@ Collaboration & Product Building: Mobile & web applications with startups and re
 🚀 Some projects I’ve worked on:
 Designed the A Currency Converter Application (desktop version) using TailwindCSS 
 
-
-
+Link: https://github.com/Gladysoj/currency-converter-app
 
 Designed a Music Application (mobile version) with a modern, intuitive interface
 
+Link: https://www.figma.com/design/DPSBjHNzzraXnNjDdg4AsI/Project-Rali-Hi-fi?node-id=44-2&p=f&t=vZWyTokjLIthk0SJ-0
 
 Freelance product design projects over the past 2 years
 
